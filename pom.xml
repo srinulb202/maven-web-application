@@ -95,15 +95,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexusRepo</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.3.243:9980/mithuntechnologies/repository/canarabank-releases/</url>
+	      <url>http://54.173.21.148:8081/repository/flipcart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexusRepo</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.3.243:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
+	      <url>http://54.173.21.148:8081/repository/flipcart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
