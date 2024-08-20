@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexusRepo</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.173.21.148:8081/repository/flipcart-release/</url>
+	      <url>http://54.226.16.123:8081/repository/project-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexusRepo</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.173.21.148:8081/repository/flipcart-snapshot/</url>
+	      <url>http://54.226.16.123:8081/repository/project-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
