@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">welcome to aws and devops hyderabad</h1>
-<h1 align="center"> aws and devops- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">welcome to aws and devops Hyderabad</h1>
+<h1 align="center"> Srinivas reedy- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
